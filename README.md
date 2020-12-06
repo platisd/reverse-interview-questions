@@ -1,4 +1,4 @@
-# :arrows_counterclockwise: Reverse interview questions for Software Engineers
+# 🔄 Reverse interview questions for Software Engineers
 
 Questions **you** should ask when interviewed for a Software Engineering position.
 
