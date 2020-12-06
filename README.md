@@ -8,7 +8,7 @@ As a Software Engineer, you will go through several interviews in your career.
 These interviews are typically set up by the potential employers to evaluate your **cultural**
 **and technical fitness** for the role.
 <br>
-From the candidate's point of view, the interview process should not just be about
+From the candidate's point of view, the interview process should not *just* be about
 convincing the employer. That is of course important, however, it should not be your *primary*
 concern unless you are in *dire* need of a job.
 Instead, you should mainly aim to understand what the company works with, how your future
@@ -33,19 +33,19 @@ human resources representative or a recruiter. Furthermore, topics that should b
 such as benefit package, working hours, salary etc, are not included.
 
 Overall, personal experience shows these questions make it easier for the interviewers to illustrate
-in-depth what and how they work with. Thus far, they have been warmly welcomed and even helped to
+in depth *how* and *what* they work with. Thus far, they have been warmly welcomed and even helped to
 make a good impression. To say the least, they show the candidate is highly interested and seriously
 engaged with the process.
 <br>
 More importantly, they enable you, as a Software Engineer, to make well-informed career decisions.
 
-## Technology stack
+## 👩‍💻 Technology stack 👨‍💻
 
 | Question(s)                                    | Comments                                                                                                                                                                             |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **What does your technology stack look like?** | Unless already mentioned, do not forget to ask about programming languages, target operating system, build system or framework, continuous integration and version control software. |
 
-## Way of Working
+## ⚙️ Way of Working ⚙️
 
 | Question(s)                                                                                                     | Comments                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ More importantly, they enable you, as a Software Engineer, to make well-informed
 | **How do you collaborate with other sites?**                                                                    | It is often fun to work with colleagues located in different parts of the world, however, this does come with its set of challenges.                                                                                                                                                   |
 | **When developing a feature, is the team able to complete it in its entirety?**                                 | This will give you a hint on the *size* of the system you will be working with as well as how *vertical* the team's domain of responsibility is.                                                                                                                                       |
 
-## Agile
+## 🚅 Agile 🚅
 
 | Question(s)                                                            | Comments                                                                         |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -68,20 +68,20 @@ More importantly, they enable you, as a Software Engineer, to make well-informed
 | **How do you write tasks?**                                            | Are they formulated as user stories? Are they estimated?                         |
 | **How do you release software?**                                       | How often do the releases take place? Are they automatically built and deployed? |
 
-## Open source
+## 🚀 Open source 🚀
 
 | Question(s)                                                | Comments                                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Are you working with open source software? If so, how?** | Can they name some open source packages they heavily utilize? Do they upstream any changes? Working with open source can be a valuable experience to carry with to the next job and upstreamed changes offer great visibility. On the other hand, there may be multiple do's and don'ts which can make your life difficult. |
 
-## Relations with customers
+## 🧑‍🤝‍🧑 Relations with customers 🧑‍🤝‍🧑
 
 | Question(s)                                       | Comments                                                                                                                                                                                                                                   |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **How do you collaborate with the customers?**    | Dependencies, communication and collaboration with the customer can vary between projects or even teams in the same project. There are those who enjoy being tightly engaged with the customer while others prefer working more isolated.  |
 | **How smooth do customer deliveries usually go?** | Delivering software may require intense collaboration with the customer for the new software to be integrated. Some thrive in such situations and view them as a chance to understand the customer needs better. Others try to avoid them. |
 
-## Testing
+## 🐜 Testing 🐜
 
 | Question(s)                                            | Comments                                                                                                                                                                        |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,7 +89,7 @@ More importantly, they enable you, as a Software Engineer, to make well-informed
 | **What test frameworks do you use?**                   | Not all frameworks appeal the same to everyone. It is good if you know this in advance.                                                                                         |
 | **What are your thoughts on Test Driven Development?** | Do they use TDD? If not, why?                                                                                                                                                   |
 
-## Career path
+## 🤵 Career path 🤵
 
 | Question(s)                                                                                                            | Comments                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -97,22 +97,22 @@ More importantly, they enable you, as a Software Engineer, to make well-informed
 | **Where do you see me in 5 years?**                                                                                    | A question often addressed to you as an interviewee. Reversing it offers you insights on the available career development paths. |
 | **How common is it for employees from this branch/department/team to advance in the higher organizational hierarchy?** | Are the ones on the top coming from a different background from yours? Can your loyalty potentially pay off?                     |
 
-## Self-development
+## 📚 Self-development 📚
 
 | Question(s)                                                                          | Comments                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **How often do your employees attend conferences, courses, seminars or hackathons?** | All companies *claim* they care for the personal development of their employees. However few have concrete examples of how they do it. Not all activities will satisfy all engineers, therefore getting input on this can be crucial. |
 
-## Collaboration with 3rd parties
+## 🤝 Collaboration with 3rd parties 🤝
 
 | Question(s)                                                                     | Comments                                                                                                                                                 |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Do you work with external suppliers? If so, how?**                            | Working with external suppliers can be both fun and/or challenging. It is good if you can find out how this synergy works.                               |
 | **Do you collaborate with academia? If so, how? If not, would you be open to?** | Participating in research projects can be interesting and rewarding. However, it may consume a portion of your time and it is not everyone's cup of tea. |
 
-## Innovation
+## 💡 Innovation 💡
 
 | Question(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Comments                                                                                                                                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Who and how comes up with novel features?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Does the responsibility for coming up with new features lie with the customer or the company's higher management? Is there an "advanced engineering" team that is tasked with this? Do the employees themselves often propose novel product functionality? Or is it interns that get to experiment with the fun stuff?                  |
+| **Who comes up with novel features and how?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Does the responsibility for coming up with new features lie with the customer or the company's higher management? Is there an "advanced engineering" team that is tasked with this? Do the employees themselves often propose novel product functionality? Or is it interns that get to experiment with the fun stuff?                  |
 | **What kind of functionality are you mostly working with, in this branch?**<br><ul><li>**Commodity** functionality constitutes all functionality that customers typically expect in a product or system, but that is also offered by competing companies.</li><li>**Differentiating** functionality contains the functionality that makes customers select our products or systems over those from competitors.</li><li>**Innovation** functionality is experimental functionality. Company experiments with different innovative ideas to identify new future differentiation.</li></ul> | The three types of functionality are found in Jan Bosch's 3LPM. [[1]](https://www.researchgate.net/publication/260584542_Achieving_Simplicity_with_the_Three-Layer_Product_Model), [[2]](https://janbosch.com/blog/index.php/2017/01/28/9-out-of-10-in-rd-work-on-commodity/)<br><br>![3LPM Jan Bosch](https://i.imgur.com/cVoKY4Z.png) |
